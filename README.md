@@ -5,6 +5,9 @@ The goal of this repo is to provide a template from which students can host CS18
 - [Rasterizer](https://cal-cs184-student.github.io/hw-webpages-sp24-Zackoon/hw1).
 - [MeshEdit](https://cal-cs184-student.github.io/hw-webpages-sp24-Zackoon/hw2).
 - [Raytracer](https://cal-cs184-student.github.io/hw-webpages-sp24-Zackoon/hw3).
+- [ClothSim](https://cal-cs184-student.github.io/hw-webpages-sp24-Zackoon/hw4/).
+
+[Homepage](https://cal-cs184-student.github.io/hw-webpages-sp24-Zackoon/).
 
 ## Enabling Github Pages
 
